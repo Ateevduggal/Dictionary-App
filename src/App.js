@@ -38,7 +38,7 @@ const App = () => {
           <div className="form-floating bg-primary py-3 pb-5 d-flex justify-content-center">
             <input
               type="text"
-              className="form-control-sm border-0 px-2 col-3"
+              className="form-control-sm border-0 px-2 col-md-3 col-sm-4"
               placeholder="Type your word"
               id="floatingInput"
               value={word}
