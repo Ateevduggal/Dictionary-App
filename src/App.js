@@ -48,7 +48,7 @@ const App = () => {
               className="btn btn-dark text-light col-md-1 col-sm-2 mx-2"
               onClick={Search}
             >
-              Saerch
+              Search
             </button>
           </div>
         </div>
