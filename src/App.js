@@ -16,9 +16,9 @@ const App = () => {
     console.log(dataJ);
     setMain(dataJ[0]);
     console.log(dataJ[0]);
-    // const url = dataJ[0].phonetics[0].audio;
-    // const urla = dataJ[0].phonetics[1].audio;
-    // setAudio(url || urla);
+    const url = dataJ[0].phonetics[0].audio;
+    const urla = dataJ[0].phonetics[1].audio;
+    setAudio(url || urla);
   };
 
   useEffect(() => {
