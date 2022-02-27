@@ -13,7 +13,7 @@ const Example = ({ mean }) => {
                     {Def.example}
                   </li>
                 ) : (
-                 ""
+                  ""
                 )}
               </>
             );
