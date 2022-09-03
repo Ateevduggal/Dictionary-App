@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can read the full article on how to make this for your selves on my website [Tekolio](https://tekolio.com/how-to-create-a-dictionary-app-in-react/)
 
 ## Available Scripts
 
